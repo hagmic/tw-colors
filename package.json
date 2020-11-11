@@ -1,0 +1,10 @@
+{
+  "name": "tw-colors",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Haglund",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "next"
+  }
+}
